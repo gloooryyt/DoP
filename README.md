@@ -40,5 +40,6 @@ python run.py --cfg 'dop/forecast_PEMS0X.py' --gpus=0
 You can also set up multiple gpus for parallel computing.
 
 
-
+### Acknowledgement
+Our code is developed based on [BasicTS](https://github.com/GestaltCogTeam/BasicTS), [STEP](https://github.com/GestaltCogTeam/STEP), [STD-MAE](https://github.com/Jimmy-7664/STD-MAE), thanks for their excellent works! 
 
