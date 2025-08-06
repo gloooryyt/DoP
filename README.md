@@ -1,4 +1,5 @@
 # DoP
+Code of the CIKM 2025 paper "Decoder-only Pre-training Enhancement for Spatio-temporal Traffic Forecasting".
 ***
 ### Raw Data
 
@@ -37,6 +38,7 @@ Run the following code to conduct forecasting training processing,
 python run.py --cfg 'dop/forecast_PEMS0X.py' --gpus=0
 ```
 You can also set up multiple gpus for parallel computing.
+
 
 
 
